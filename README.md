@@ -14,13 +14,23 @@
 - 🎭 Client & Server Components
 
 ## Features
+### **Your Smart Fitness Companion**  
+Stay motivated with an AI assistant that gets to know you—your fitness goals, current fitness level, and even your preferences—so it can guide you every step of the way.  
 
-- **Smart AI Assistant**: Engage in conversation with an AI that asks about your fitness goals, physical condition, and preferences
-- **Personalized Workout Plans**: Get custom exercise routines based on your fitness level, injuries, and goals
-- **Diet Recommendations**: Receive personalized meal plans accounting for your allergies and dietary preferences
-- **User Authentication**: Sign in with GitHub, Google, or email/password
-- **Program Management**: Create and view multiple fitness programs with only the latest one active
-- **Responsive Design**: Beautiful UI that works across all devices
+### **Workouts Made Just for You**  
+No more guessing! Get custom workout plans tailored to your strength, any injuries, and what you want to achieve—whether it’s building muscle, losing weight, or just staying active.  
+
+### **Eating Right, Your Way**  
+Personalized meal plans that fit your diet—vegan, keto, gluten-free, or anything else. Plus, we’ll keep your allergies and food dislikes in mind so you enjoy every bite.  
+
+### **Easy Sign-In, No Hassle**  
+Jump in quickly with your GitHub or Google account, or use a simple email and password—whatever works for you.  
+
+### **Flexible Fitness Programs**  
+Create, save, and switch between different workout plans, with only your latest one active. Perfect for when your goals change!  
+
+### **Looks Great on Any Device**  
+Whether you’re on a phone, tablet, or computer, the app adapts smoothly so your fitness journey stays seamless.  
 
 ## Setup .env file
 
