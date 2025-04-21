@@ -1,4 +1,4 @@
-<h1 align="center">💪 AI Fitness chatbot  🤖</h1>
+<h1 align="center">💪  Fitness AI chatbot  🤖</h1>
 
 ## Highlights:
 
